@@ -10,10 +10,10 @@ I'm a **Digital Designer & Developer** with **3 years of experience** in creatin
 ### 💻 Skills & Expertise  
 
 - **Programming Languages**: Python, JavaScript, HTML, CSS  
-- **Frameworks & Libraries**: Flask, Streamlit, Gradio, Express.js  
-- **Web Development**: WordPress, XAMPP, MongoDB, REST APIs  
-- **AI & ML**: GPT-3, Sentiment Analysis, GANs, Computer Vision  
-- **Tools & Platforms**: Hostinger, GitHub, VS Code, Wireshark  
+- **Frameworks & Libraries**: Flask, Streamlit, Gradio, Dash 
+- **Web Development**: WordPress, XAMPP, MongoDB,   
+- **AI & ML**: GPT-3, Sentiment Analysis   
+- **Tools & Platforms**: Hostinger, GitHub, VS Code 
 - **Soft Skills**: Creative problem solving, project leadership, collaboration  
 
 ---
