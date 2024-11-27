@@ -1,6 +1,4 @@
-Here's the updated README with your portfolio website:  
 
----
 
 # 👋 Hi, I'm Mani Bharathi!
 
