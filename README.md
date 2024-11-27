@@ -1,16 +1,47 @@
-## Hi there 👋
+Here's the updated README with your portfolio website:  
 
-<!--
-**manibharathi19/manibharathi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Mani Bharathi!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me  
+I'm a **Digital Designer & Developer** with **3 years of experience** in creating impactful web solutions. As the founder of **Byterz Tech**, I lead a team to deliver high-quality web development projects tailored to client needs. I have a strong passion for technology and innovation, with a special interest in **sustainable development**, **renewable energy**, and **waste management**.
+
+---
+
+### 💻 Skills & Expertise  
+
+- **Programming Languages**: Python, JavaScript, HTML, CSS  
+- **Frameworks & Libraries**: Flask, Streamlit, Gradio, Express.js  
+- **Web Development**: WordPress, XAMPP, MongoDB, REST APIs  
+- **AI & ML**: GPT-3, Sentiment Analysis, GANs, Computer Vision  
+- **Tools & Platforms**: Hostinger, GitHub, VS Code, Wireshark  
+- **Soft Skills**: Creative problem solving, project leadership, collaboration  
+
+---
+
+### 🚀 Current Projects  
+
+- **[Mental Health Chatbot](https://github.com)**: AI-powered therapy bot with sentiment analysis and GPT-3 integration, helping users track mood and discover coping strategies.  
+- **Plant Disease Detection**: Using ML models for identifying plant diseases and supporting sustainable agriculture.  
+- **Food Sharing Application**: A platform connecting surplus food resources to those in need, reducing urban food waste.
+
+---
+
+### 🎯 Interests  
+
+- **Artificial Intelligence**: Exploring Generative AI and achieving Infosys Springboard certification.  
+- **Autonomous Systems**: Real-time object detection and AI for autonomous vehicles.  
+- **Social Impact**: Building tech solutions that address real-world problems like hunger and waste management.
+
+---
+
+### 🌐 Let's Connect  
+
+- **Portfolio**: [Mani Bharathi Portfolio](https://manibharathi19.github.io/Portfolio/)  
+- **LinkedIn**: [Mani Bharathi](https://linkedin.com/in/mani-bharathi)  
+- **GitHub**: [ManiBharathi](https://github.com/manibharathi)
+
+--- 
+
+Feel free to add or modify any details further! 😊
