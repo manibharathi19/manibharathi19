@@ -1,11 +1,10 @@
-
+![MasterHead]([https://your-image-link-here.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmYzOHU5cnJmOWVjMXp5c3FzOGdwMnR2em44OXM2OWJmYzhnbnE1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif)
 
 # 👋 Hi, I'm Mani Bharathi!
 
 ### 🌟 About Me  
 I'm a **Digital Designer & Developer** with **3 years of experience** in creating impactful web solutions. I lead a team to deliver high-quality web development projects tailored to client needs. 
 
-![MasterHead]([https://your-image-link-here.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmYzOHU5cnJmOWVjMXp5c3FzOGdwMnR2em44OXM2OWJmYzhnbnE1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif)
 ---
 
 ### 💻 Skills & Expertise  
