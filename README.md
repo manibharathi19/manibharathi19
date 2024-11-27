@@ -21,8 +21,8 @@ I'm a **Digital Designer & Developer** with **3 years of experience** in creatin
 ### 🚀 Current Projects  
 
 - **[Mental Health Chatbot](https://github.com/manibharathi19/Mental-Health-Chatbot)**: AI-powered therapy bot with sentiment analysis and GPT-3 integration, helping users track mood and discover coping strategies.  
-- **Plant Disease Detection**: Using ML models for identifying plant diseases and supporting sustainable agriculture.  
-- **Food Sharing Application**: A platform connecting surplus food resources to those in need, reducing urban food waste.
+- **[Plant Disease Detection](https://github.com/manibharathi19/Mental-Health-Chatbot)**: Using ML models for identifying plant diseases and supporting sustainable agriculture.  
+- **[Food Sharing Application](https://github.com/manibharathi19/Mental-Health-Chatbot)**: A platform connecting surplus food resources to those in need, reducing urban food waste.
 
 ---
 
