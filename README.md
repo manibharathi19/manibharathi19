@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Mani Bharathi!
 
 ### 🌟 About Me  
-I'm a **Digital Designer & Developer** with **3 years of experience** in creating impactful web solutions. As the founder of **Byterz Tech**, I lead a team to deliver high-quality web development projects tailored to client needs. I have a strong passion for technology and innovation, with a special interest in **sustainable development**, **renewable energy**, and **waste management**.
+I'm a **Digital Designer & Developer** with **3 years of experience** in creating impactful web solutions. I lead a team to deliver high-quality web development projects tailored to client needs. 
 
 ---
 
