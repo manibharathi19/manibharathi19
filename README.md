@@ -37,8 +37,8 @@ I'm a **Digital Designer & Developer** with **3 years of experience** in creatin
 ### 🌐 Let's Connect  
 
 - **Portfolio**: [Mani Bharathi Portfolio](https://manibharathi19.github.io/Portfolio/)  
-- **LinkedIn**: [Mani Bharathi](https://linkedin.com/in/mani-bharathi)  
-- **GitHub**: [ManiBharathi](https://github.com/manibharathi)
+- **LinkedIn**: [Mani Bharathi](https://www.linkedin.com/in/mani-bharathi-r-275190252)  
+- **GitHub**: [ManiBharathi](https://github.com/manibharathi19)
 
 --- 
 
